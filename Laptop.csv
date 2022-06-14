@@ -1,4 +1,4 @@
-Jenis Kelamin,Program Studi,Mendukung,Tipe,Brand,Harga,Waktu Belajar,Nilai IPS
+Jenis_Kelamin,Program_Studi,Mendukung,Tipe,Brand,Harga,Waktu_Belajar,Nilai_IPS
 Perempuan,Teknologi Sains Data,Ya,Notebook / Notebook Touchscreen,Hp,12600000,5,3.84
 Laki-laki,Teknik Elektro,Ya,Notebook / Notebook Touchscreen,lainnya,8000000,1,3.42
 Perempuan,Teknologi Sains Data,Ya,Laptop Gaming,Lenovo,10000000,6,3.6
